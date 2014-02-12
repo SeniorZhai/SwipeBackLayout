@@ -7,10 +7,10 @@
     <string name="finish_activity">结束Activity！</string>
 
     <string name="key_tracking_mode">key_tracking_mode</string>
-    <string name="tracking_mode_left">Left</string>
-    <string name="tracking_mode_right">Right</string>
-    <string name="tracking_mode_bottom">Bottom</string>
-    <string name="tracking_mode_all">All</string>
+    <string name="tracking_mode_left">左划</string>
+    <string name="tracking_mode_right">右划</string>
+    <string name="tracking_mode_bottom">上拉</string>
+    <string name="tracking_mode_all">全部</string>
     <string name="EdgeTrackingMode">退出模式</string>
 
 </resources>
